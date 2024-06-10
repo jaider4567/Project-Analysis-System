@@ -26,5 +26,5 @@ components
 the movies are composed of various atributes and some of these are dependencies of other, like the tendencies of a director of lead films with a genre predominant and this affects the possible public to whicj its directed. Also there are eras where for example the superhero theme aren´t so successful like the last  decade
 </p>
 
-!
+![alt text](https://github.com/Andro-GM24/Project-Analysis-System/blob/master/images/teoria de la información.drawio.png?raw=true)
 
